@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 HAPPY'S PATRONUS
-=======
 SNAPE'S PATRONUS
->>>>>>> snape
+
